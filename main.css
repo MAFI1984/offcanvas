@@ -1,0 +1,16 @@
+
+
+
+html{
+  font-size: 62.5%;
+}
+
+.offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link{
+    transition: all 1s ease;
+}
+.offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link:hover{
+    background: rgb(3, 3, 3);
+    padding: 1rem 1rem;
+    color: #fff;
+
+}
